@@ -1,0 +1,65 @@
+body{
+    font-family: 'Fira Sans', sans-serif;
+}
+#top-baner{
+    height: 600px;
+    width: 100%;
+    background-image: url(donate-4.jpg);
+    color: whitesmoke;
+    text-align: center;   
+    padding-top: 300px;
+}
+.white-color{
+    color: white;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700px;
+    padding: 10px 40px ;
+    border-radius: 10px;
+}
+.middle-1{
+    text-align: center;
+    padding-top: 50px;
+}
+.box{
+   background-color:#FFF8DC;
+    border: 1px solid gray;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 5%;
+}
+.div-200{
+    border: 1px solid red;
+    color: red;
+}
+.flexible{
+    display: flex;
+    padding: 5%;   
+}
+#donate-2{
+    height: 100%;
+    width: 100%;
+}
+#finish-part{
+    text-align: center;
+}
+#last{
+   
+    background-color:#FFF8DC;
+    padding: 30px;
+    border-radius: 1px;
+    margin: 50px 300px 50px 300px;
+    text-align: center;
+   
+}
+span{
+    color: red;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+}
